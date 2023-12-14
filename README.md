@@ -1,4 +1,4 @@
-# 👋 Hi, i'm Marwan Flores Orozco!
+# 👋 Hi, I'm Marwan Flores Orozco!
 
 Currently in my senior year of systems engineer and I'm passionate about data science and physics. I have focused on learning mathematics and physics to improve my understanding of the underlying concepts of data science and to be able to create more efficient AI models in the future. Although I have no work experience in the field, I am committed to learning and acquiring skills through online courses and personal projects.
 
