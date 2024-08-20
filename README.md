@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marwan Flores Orozco!
 
-Currently in my senior year of systems engineer and I'm passionate about data science and physics. I have focused on learning mathematics and physics to improve my understanding of the underlying concepts of data science and to be able to create more efficient AI models in the future. Although I have no work experience in the field, I am committed to learning and acquiring skills through online courses and personal projects.
+As an Information Systems Engineer, I have a strong background in data science, software development, and data analysis. My recent experience as an astrophysicist researcher has further honed my ability to analyze and compare large datasets, enhancing my skills in database querying, data visualization, and applying mathematical models. This research role complements my hands-on experience in software engineering, where I consistently apply best practices to create clean, scalable solutions. My technical expertise is driven by a passion for continuous learning and innovation, keeping me at the forefront of both data science and data engineering. I am eager to contribute to projects that require a blend of these skills, bridging the gap between advanced technology and data-driven insights
 
 I firmly believe in the importance of continuous education and staying up-to-date on the latest advancements in technologies and tools in the world of data science. I am excited to continue learning and growing in this field and eager to contribute to interesting projects in the future🚀
 
